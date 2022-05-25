@@ -1,5 +1,5 @@
 """ token GitHub 
-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
+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
 
 
 https://stackoverflow.com/questions/68788998/authentication-was-removed-please-use-a-personal-access-token-instead
